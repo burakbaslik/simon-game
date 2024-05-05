@@ -1,5 +1,5 @@
 <div align="center">
-	<img height="450" width="550" src="https://github.com/burakbaslik/simon-game/assets/114684038/e0b5d5bc-98ae-41d7-8a72-fd594ed09ff8"  />
+	<img height="350" width="450" src="https://github.com/burakbaslik/simon-game/assets/114684038/e0b5d5bc-98ae-41d7-8a72-fd594ed09ff8"  />
 </div>
 
 # **Simon Game**
